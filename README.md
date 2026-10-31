@@ -2,6 +2,8 @@
 
 My Reading Travelogue turns a Goodreads library export into an interactive globe and reading log of author birthplaces.
 
+![My Reading Travelogue preview](preview.png)
+
 ## Run locally
 
 Requires Node.js 22.13 or newer.
